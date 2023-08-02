@@ -5,6 +5,7 @@ Calculate Me! is a simple calculator web application built using HTML, CSS, and 
 ## Live Demo
 
 You can try out the live demo of the calculator.
+https://officebrijendra.github.io/Calculator/
 
 ## Features
 
@@ -17,7 +18,7 @@ You can try out the live demo of the calculator.
 ## How to Use
 
 1. Clone the repository to your local machine.
-2. Open the `Calculator.html` file in your web browser.
+2. Open the `index.html` file in your web browser.
 3. Use the buttons to input numbers and perform calculations.
 4. Click the "AC" button to clear the input field.
 5. Click the "DEL" button to delete the last character.
