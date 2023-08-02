@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:ital@1&family=Varela+Round&display=swap');
+
+.text-center{
+    text-align: center;
+}
+.mx-auto{
+    margin:auto;
+}
+.m-w-20{
+    max-width: 30vw;
+}
+.flex{
+    display: flex;
+    align-items: center;
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
