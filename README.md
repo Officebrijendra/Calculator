@@ -5,7 +5,7 @@ Calculate Me! is a simple calculator web application built using HTML, CSS, and 
 ## Live Demo
 
 You can try out the live demo of the calculator.
-https://officebrijendra.github.io/Calculator/
+https://brijendra04.github.io/Calculator/
 
 ## Features
 
