@@ -27,6 +27,7 @@ h1 {
     padding: 10px 33px;
     border: 2px solid black;
     border-radius: 5px;
+
 }
 
 .button {
@@ -53,7 +54,7 @@ h1 {
 
 .dark-mode .row input {
     border-color: #ccc;
-    color: #fff;
+    color: #000000;
 }
 
 @media (max-width: 768px) {
