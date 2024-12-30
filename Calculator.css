@@ -53,9 +53,11 @@ h1 {
 }
 
 .dark-mode .row input {
-    border-color: #ccc;
-    color: #000000;
+    background-color: #555; 
+    border-color: #ccc;   
+    color: #fff;           
 }
+
 
 @media (max-width: 768px) {
     .container {
